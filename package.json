@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare-vless-trojan",
+  "version": "1.0.0",
+  "description": "Cloudflare VLESS/Trojan Proxy",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "wrangler": "latest"
+  }
+}
